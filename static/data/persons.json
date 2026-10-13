@@ -1,0 +1,35 @@
+[
+    {
+        "id": "p1",
+        "label": "English Women on Balconies",
+        "name": "English Women on Balconies",
+        "x": 77.99,
+        "y": -14.55,
+        "text": "Undefined place, here given: Aldersgate Street, where many inns and taverns were located.",
+        "src_text_orig": "vntenher vor den Wohnstuben stehen \u00fcberall sch\u00f6ne eiserne balcons oder lauben herau\u00df da\u00df man au\u00df den Zimmeren auff selbige hinau\u00dfgehen vnd sonderlich das sch\u00f6ne Englische frauenzimmer sich auff denselbigen bequemlich schau-stellen kan, haben auch dise commoditet, da\u00df man auf den gassen am sch\u00e4rmen darunter hinpassiren kan; So hangen auch von allen ha\u00fcsern sch\u00f6ne vnd pr\u00e4chtige tavernes oder schilten herau\u00df, darunter vil von vilem eisenwerk vnd sch\u00f6ner mahlere\u00ff so gro\u00df vnd kostbar, da\u00df ein einiger offt auf 100. pfund Sterling kostet, dises machet nun einem be\u00ff dem eintritt vnd eingang in solche  gassen einen sch\u00f6nen vnd pr\u00e4chtigen anblik; die innwendige commoditet der ha\u00fcser besteht meistens darinn da\u00df vil ha\u00fcser ihre eigene brunnen in den kuchen haben.",
+        "src_text_translation": "In front of the parlours there are beautiful iron balconies or arbours everywhere, so that one can walk out of the rooms onto them and, in particular, the beautiful English women can conveniently flaunt themselves on them; they also have the convenience that one can pass sheltered underneath them in the streets. All the houses have beautiful and splendid inn signs or signboards hanging out of them, among them many of fine ironwork or beautiful painting so large and precious that a few often cost 100 pound sterling. This makes a beautiful and splendid sight when entering such alleys; the internal convenience of the houses usually consists in the fact that many houses have their own wells in the kitchens.",
+        "page_img": 2864047
+    },
+    {
+        "id": "p2",
+        "label": "Of English Men and Women",
+        "name": "Of English Men and Women",
+        "x": 72.52,
+        "y": -74.37,
+        "text": "Undefined place, here given: Lincoln's Inn field, the largest public square in London.",
+        "src_text_orig": "Die Engell\u00e4nder insgemein sind vil geistreicher vnd gegen den frembden vil discreter vnd h\u00f6fflicher als die holl\u00e4nder, vnd ist sonderlich das Englische frauenzimmer gar galant vnd h\u00f6fflich, leben (auch nachdem sie schon verhe\u00fcrahtet) in aller fre\u00ffheit, sitzen in ihren k\u00f6stlichen l\u00e4den gleich Princessinnen herrlich aufgebutzet gantz still vnd m\u00fcssig, fahren \u00f6ffters spatzieren ja werden von ihren M\u00e4nnern selbsten den fremmden \u00f6ffters dazu presentieret, da\u00df sie demnach in v\u00f6lliger fre\u00ffheit aller selbstbeliebigen wollust nach wunsch pflegen m\u00f6gen, vnd die Engell\u00e4nder selbst daher ein sprichwort haben, da\u00df gut w\u00e4re, da\u00df kein bruk \u00fcbers meer se\u00ff, sonst die weiber alle au\u00df gantz Europa in Engelland \u00fcbergelauffen kommen wurden.",
+        "src_text_translation": "The English are in general much more witty and much more dircreet and polite towards foreigners than the Dutch; and, in particular, are the English ladies very gallant and polite, they live (even after getting married) in total freedom, sitting in their wonderful shops much like princesses magificantly dressed up completelly silent and idle, they often leave for a stroll, yes, they are, at times, even presented by their own husbands to strangers. Thus, they enjoy complete liberty to indulge in whatever pleasures they desire, and the English themselves therefore have a saying, that it is good that there is no bridge leading across the sea, for otherwise, women from all of Europe would overrun England.",
+        "page_img": 2864050
+    },
+    {
+        "id": "p3",
+        "label": "Black People",
+        "name": "Black People",
+        "x": 69.58,
+        "y": 48.46,
+        "text": "Undefined place, here given: St Botolph. Black people and communites were spread all over Restoration London and not contained to one area, St. Botolph is one of the oldest known locations of a small Black community.<br><br>Warning: Racism<br>Despite Bucher's, sadly, unsurprisingly racist description of Black people, this is quite a remarkable occurence, as he is, so far, our only Swiss traveller remarking on the diversity of London. Since the 1600s, London has always been an incredibly diverse space. Bucher's account bears witness not only to this diversity, but also that, according to Bucher, many Black Londoners were successful and an integrated and visible part of London's public life.<br> Further reading on this topic: Newman, Simon P. <i>Freedom Seekers: Escaping from Slavery in Restoration London.</i> University of London Press, 2022.<br><br>Fontanges were a popular high headress made of linen and lace.",
+        "src_text_orig": "Es sind auch sehr vil Mohren Mann = vnd Weibspersonen in Londen, darunter auch etliche reiche Kauffle\u00fct, vnd ist wol l\u00e4cherlich zu sehen, wie das frauenzimmer mit sch\u00f6nen weissen Fontangen \u00fcber dem brantschwartzen angesicht prangend daherze\u00fccht.",
+        "src_text_translation": "There are also many black men and women in London, including quite a few rich merchants, and it is quite ridiculous to see the women flaunt around with beautiful white fontanges above their black faces.",
+        "page_img": 2864051
+    }
+]

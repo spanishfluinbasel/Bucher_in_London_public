@@ -1,0 +1,35 @@
+[
+    {
+        "id": "f1",
+        "label": "Coffee and Beer Houses",
+        "name": "Coffee and Beer Houses",
+        "x": 67.74,
+        "y": 20.45,
+        "text": "Undefined place, here given: Jamaica Coffee House, London's first coffee house.",
+        "src_text_orig": "Die Manns=personen lieben sehr vnd vil mehr als die holl\u00e4nder in ihre vile caff\u00e9ha\u00fcser zu gehen, deren \u00fcber 3000. gantze stunden da zu sitzen caff\u00e9, the, chocolate, milch, brantenwein, bier etc. zu trinken dabe\u00ff etliche pfeiffen tabak zu schmauchen, die vile zeitungen zu lesen vnd vil dar\u00fcber zu discuriren auch \u00f6ffters hoh zu wetten; Den Sabbath halten sie sehr scharf vnd fleissig, da\u00df man selbigen tags wol niemand in ein coff\u00e9 \u2013 wein oder bierhau\u00df gehen sehen wird, ja als ich einest an einem Sontag dinten vnd federn einen brieff zu schreiben forderte, haben sie sich nit wenig dar\u00fcber best\u00fcrtzet vnd gesagt, da\u00df man be\u00ff ihnen einen, der solches an einem Sontag thun wurde, vor einen recht profanum halten wurde, hingegen thun die holl\u00e4nder wol destoweniger, massen des Sontags vil l\u00e4den offen sind vnd auch andere arbeit offentlich verrichtet wird. Die Engell\u00e4nder halten sich auch ins gemein gleich ihrem frauenzimmer in kleidung sehr propre vnd k\u00f6stlich.",
+        "src_text_translation": "The men greatly enjoy, even more than the Dutch, spending time in their many coffeehouses\u2014of which there are over 3'000\u2014where they sit for hours drinking coffee, tea, chocolate, milk, brandy, beer, etc., while some smoke pipes of tobacco, read the many newspapers, and engage in much discussion, often placing high wagers. They observe the Sabbath very strictly and diligently, so much so that one will not see anyone entering a coffeehouse, wine tavern, or alehouse on that day. In fact, when I once requested ink and a quill to write a letter on a Sunday, they were quite shocked and told me that anyone doing such a thing on a Sunday would be considered truly profane. By contrast, the Dutch are much less strict in this regard, as many shops remain open on Sundays, and other kinds of work are carried out in public. The English, much like their women, generally dress very proper and sumptuously.",
+        "page_img": 2864050
+    },
+    {
+        "id": "f2",
+        "label": "Of English Goods and Wine",
+        "name": "Of English Goods and Wine",
+        "x": 76.75,
+        "y": -22.1,
+        "text": "Undefined place, here given: Cloth Fair, where many drapers, tailors, and clothiers were located.",
+        "src_text_orig": "Gleichwie auch insgemein vil Englische waaren vor die beste vnter allen gehalten werden, so absonderlich die Vhren, perspectiv , messer, Str\u00fcmpff vnd die k\u00f6stliche T\u00fccher; Vornemmlich ist auch das Englische bier trefflich gut vnd stomachal vnd gleich dem sch\u00f6nsten Wein, sch\u00f6n clar, lieblich vnd anemmlich zu trinken, kan auch einer gleich vom st\u00e4rksten Wein bald einen dichten rausch davon bekommen.",
+        "src_text_translation": "Just as many English goods are generally considered the best among all, particularly clocks, optical instruments, knives, stockings, and exquisite fabrics, so too is English beer exceptionally good and beneficial for the stomach. It is as clear, pleasant, and agreeable to drink as the finest wine, and even from the strongest varieties, one can quickly become quite intoxicated, just as with strong wine.",
+        "page_img": 2864052
+    },
+    {
+        "id": "f3",
+        "label": "Of English Meat ",
+        "name": "Of English Meat ",
+        "x": 66.47,
+        "y": 25.86,
+        "text": "Undefined place, here given: Leadenhall market, like Smithfields another important meat market.",
+        "src_text_orig": "das Rindfleisch ist auch \u00fcberal so gut vnd delicat, da\u00df es auch nur halb gekocht vnd gebraten gantz murb vnd leicht zu essen, vnd weil die Engell\u00e4nder dessen so vil vnd fast roh essen, glaubt man da\u00df sie dannenhar so cr\u00fcel, wild vnd verwegen sind vnd da\u00df sich so vil selbst entleiben",
+        "src_text_translation": "The beef is also so good and delicate everywhere that it is quite tasty and easy to eat even when only half cooked and roasted, and because the English eat so much of it and almost raw, it is believed that they are so cruel, wild and audacious and disembody themselves so often.",
+        "page_img": 2864052
+    }
+]
